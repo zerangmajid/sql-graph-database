@@ -15,5 +15,6 @@ This repository contains SQL scripts to create and manage a graph database with 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sql-graph-database.git
-   cd sql-graph-database
+git clone https://github.com/zerangmajid/sql-graph-database.git
+cd sql-graph-database
+
